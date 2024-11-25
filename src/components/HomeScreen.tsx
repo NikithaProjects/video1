@@ -32,7 +32,7 @@ const imageStyleProps: IImageStyles = {
 export default (props: HomeScreenProps): JSX.Element => {
   
   const imageProps = { src: heroSVG.toString() };
-  const headerTitle = 'The Family Video Call';
+  const headerTitle = 'Doctor Patient Interaction Video Call';
   const startCallButtonText = 'Let\'s go';
  
   
